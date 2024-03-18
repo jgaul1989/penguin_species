@@ -18,7 +18,7 @@ Installation
 Clone this repository to your local machine:
 
 
-git clone https://github.com/your-username/penguin-species-classification.git
+git clone https://github.com/your-username/penguin_species.git
 
 
 Install the required Python packages:
